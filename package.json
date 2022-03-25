@@ -1,5 +1,5 @@
 {
-  "name": "bootorganizer-server",
+  "name": "server-main",
   "version": "0.0.0",
   "private": true,
   "scripts": {
